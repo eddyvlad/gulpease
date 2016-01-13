@@ -1,2 +1,2 @@
-# gulpease
+# Gulpease
 Makes developing gulp automation easier
